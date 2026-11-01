@@ -1,0 +1,36 @@
+# Dependencies used across the five Kaggle research notebooks.
+# Versions are intentionally unpinned because the notebooks do not
+# provide a complete, reproducible environment lockfile.
+
+# Deep learning and pretrained architectures
+torch
+torchvision
+transformers
+timm
+
+# Image processing and numerical computing
+numpy
+Pillow
+opencv-python
+scipy
+
+# Data handling and evaluation
+pandas
+scikit-learn
+
+# Visualization and explainability
+matplotlib
+seaborn
+grad-cam
+
+# Dataset access and progress tracking
+kaggle
+kagglehub
+tqdm
+
+# Explicitly upgraded in several notebooks
+sympy
+
+# Notebook execution outside Kaggle
+jupyter
+ipython
