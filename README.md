@@ -10,7 +10,7 @@ This research evaluates five pretrained deep learning architectures for classify
 
 | Model | Notebook |
 |---|---|
-| Vision Transformer (ViT-Base) | [`cse438-project-vit-base.ipynb`](cse438-project-vit-base.ipynb) |
+| Vision Transformer (ViT-Base) | [`cse438-project-vit-base.ipynb`]([cse438-project-vit-base.ipynb](https://www.kaggle.com/code/iftekharislam/cse438-project-efficient-vit)) |
 | EfficientViT-B0 | [`cse438-project-efficient-vit.ipynb`](cse438-project-efficient-vit.ipynb) |
 | EfficientNet-B0 | [`cse438-project-efficientnetb0.ipynb`](cse438-project-efficientnetb0.ipynb) |
 | ConViT | [`cse438-convit.ipynb`](cse438-convit.ipynb) |
