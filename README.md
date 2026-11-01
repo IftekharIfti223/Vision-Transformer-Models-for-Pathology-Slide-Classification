@@ -8,14 +8,13 @@ This research evaluates five pretrained deep learning architectures for classify
 
 ## Models
 
-| Model | Notebook |
-|---|---|
-| Vision Transformer (ViT-Base) | [`cse438-project-vit-base.ipynb`](cse438-project-vit-base.ipynb) |
-| EfficientViT-B0 | [`cse438-project-efficient-vit.ipynb`](cse438-project-efficient-vit.ipynb) |
-| EfficientNet-B0 | [`cse438-project-efficientnetb0.ipynb`](cse438-project-efficientnetb0.ipynb) |
-| ConViT | [`cse438-convit.ipynb`](cse438-convit.ipynb) |
-| Swin Transformer | [`swint.ipynb`](swint.ipynb) |
-
+| Model | GitHub Notebook | Run on Kaggle |
+|---|---|---|
+| Vision Transformer (ViT-Base) | [View Code](vit-base.ipynb) | [Open Kaggle](https://www.kaggle.com/code/iftekharislam/cse438-project-vit-base) |
+| EfficientViT-B0 | [View Code](efficient-vit.ipynb) | [Open Kaggle](https://www.kaggle.com/code/iftekharislam/cse438-project-efficient-vit) |
+| EfficientNet-B0 | [View Code](efficientnetb0.ipynb) | [Open Kaggle](https://www.kaggle.com/code/iftekharislam/cse438-project-efficientnetb0) |
+| ConViT | [View Code](convit.ipynb) | [Open Kaggle](https://www.kaggle.com/code/iftekharislam/cse438-convit) |
+| Swin Transformer | [View Code](swint.ipynb) | [Open Kaggle](https://www.kaggle.com/code/iftekharislam/swint) |
 ## Datasets
 
 - **NCT-CRC-HE-100K:** Nine colorectal tissue classes.
